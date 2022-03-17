@@ -1,0 +1,29 @@
+a {
+  color: red;
+  text-decoration: none;
+}
+/*Überschrift h1 soll sein schwarzer Hintergrund und weiße Schriftfarbe*/
+h1 {
+  color: white;
+  background-color: black;
+}
+p {
+  width: 600px;
+  color: blue;
+  background-color: darkorange;
+}
+body {
+  font-family: Helvetica, sans-serif;
+}
+#rot {
+  background-color: red;
+}
+.green {
+  background-color: darkcyan;
+  color: yellow;
+}
+#piglet {
+  border-color: black;
+  border-width: 3px;
+  border-style: solid;
+}
